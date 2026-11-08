@@ -51,8 +51,10 @@ You can delete your account at any time in **Profile → Settings → Delete acc
 ## 9. Disclaimers
 The app is provided "as is". We work to keep it accurate and available, but we don't guarantee it will always work, be error-free, or that queue times and estimates will be exact. To the extent the law allows, we are not responsible for indirect losses arising from your use of the app, such as a missed activity because of a delayed notification.
 
-## 10. Apple
-These terms are between you and us, not Apple. Apple is not responsible for the app or its content and has no obligation to provide support for it. If you downloaded the app from the App Store, you also agree to Apple's standard terms for apps. Apple and its subsidiaries are third-party beneficiaries of these terms and may enforce them.
+## 10. App stores
+
+These terms are between you and us, not Apple or Google. Apple and Google are not responsible for the app or its content and have no obligation to provide support for it. Your use of the app is also subject to the terms of the store you downloaded it from (the Apple App Store or Google Play). If you downloaded the app from the Apple App Store, Apple and its subsidiaries are third-party beneficiaries of these terms and may enforce them.
+
 
 ## 11. Privacy
 How we handle your information is explained in our [Privacy Policy]([PRIVACY POLICY URL]).
